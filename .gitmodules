@@ -1,0 +1,3 @@
+[submodule "MultiThreaded-Image-Filtering"]
+	path = MultiThreaded-Image-Filtering
+	url = https://github.com/ali-pakdel/MultiThreaded-Image-Filtering.git
